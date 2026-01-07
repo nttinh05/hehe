@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // Cập nhật title trang
-        document.title = `${daysDifference} Cùng Nhau 💚`;
+        document.title = `${daysDifference} Cùng Nhau ❤️`;
     }
 
     // Cập nhật mỗi giây
