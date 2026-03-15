@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const message =
-    "Tình yêu của chúng ta bắt đầu từ những điều nhỏ bé. Mỗi khoảnh khắc bên nhau đều trở thành một kỷ niệm đáng nhớ. Mong rằngchúng ta sẽ luôn ở bên nhau và viết tiếp câu chuyện tình yêu thật dài";
+    "Tình yêu của chúng ta bắt đầu từ những điều nhỏ bé. Mỗi khoảnh khắc bên nhau đều trở thành một kỷ niệm đáng nhớ. Mong rằng chúng ta sẽ luôn ở bên nhau và viết tiếp câu chuyện tình yêu thật dài";
 
   const photoUrls = [
     "img/anh1.jpg", "img/anh2.jpg", "img/anh3.jpg", "img/anh4.jpg", "img/anh5.jpg",
